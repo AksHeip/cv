@@ -14,4 +14,5 @@ Suomi(Äidinkieli)
 Englanti(Sujuva)
 Ruotsi(ei)
 
-Matara(Asiakaspalvelu TOP-jakso)
+Ensimmäisenä opiskeluvuotena kolmen viikon työssäoppimisjakso Kansalaistoiminnankeskus Matarassa: Toimistotyöt (muun muassa Excel-ohjelmointi) ja asiakaspalvelu.
+Koronan vuoksi vain yksi TET-jakso 9. luokalla: Jyväskylän ammattikorkeakoulun digikeskuksessa videoiden ja podcastien editointia ja ohjelmistoihin tutustumista.
