@@ -10,6 +10,7 @@ Nimeni on Akseli Puranen. Olen 17-vuotias palokkalainen.
 Opiskelen Jyväskylä Gradialla Tieto- ja Viestintätekniikan perustutkinnon toista vuotta.
 
 OHJELMAT JA OHJELMOINTIKIELET
+
 Python, Java, C#, Javascript, css, HTML, php, Github, Visual Studio, XAMPP, Google
 
 KIELITAITO
