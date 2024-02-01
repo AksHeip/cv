@@ -24,11 +24,10 @@ Python, Java, C#, Javascript, css, HTML, php, Github, Visual Studio, XAMPP, Goog
 KIELITAITO
 
 
-Suomi(Äidinkieli)
+Suomi (Äidinkieli)
 
-Englanti(Sujuva)
+Englanti (Sujuva)
 
-Ruotsi(ei)
 
 
 TYÖKOKEMUS
