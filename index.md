@@ -1,18 +1,12 @@
 YHTEYSTIEDOT
 
 
-Pyynpolku 1 as. 14
+Pyynpolku 1 as. 14, 40270 PALOKKA
 
-40270 PALOKKA
-
-p. 044 404 4017
-
-akseli.puranen@gmail.com
+044 404 4017, akseli.puranen@gmail.com
 
 
-Nimeni on Akseli Puranen. Olen 17-vuotias palokkalainen.
-
-Opiskelen Jyväskylä Gradialla Tieto- ja Viestintätekniikan perustutkinnon toista vuotta.
+Nimeni on Akseli Puranen. Olen 17-vuotias palokkalainen. Opiskelen Jyväskylä Gradialla Tieto- ja Viestintätekniikan perustutkinnon toista vuotta.
 
 
 OHJELMAT JA OHJELMOINTIKIELET
